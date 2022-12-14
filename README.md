@@ -1,3 +1,3 @@
 # Classification-Dataset-Stroke
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/kevin-wijaya/Classification-Dataset-Stroke/blob/main/Workflow_UAS_2_Stroke.png?raw=true)
